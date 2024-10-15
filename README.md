@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/64553d07-9803-4848-8816-bc9de4f4ee09)
 # Unit 2 - Store Management Project
 
 ## Introduction
@@ -18,7 +18,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](Copy of UML Diagram.png) 
+![image](https://github.com/user-attachments/assets/83774bce-474c-4267-afef-ba23d4bfaac0)
+
 
 
 ## Description
